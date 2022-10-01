@@ -22,4 +22,4 @@ El archivo application.py, contiene la implementación del ejercicio desarrollad
 
 Clonando el repositorio
 
-`$ git clone url`
+`$ git clone https://github.com/XxHaRuToxX/Python-Airlines`
